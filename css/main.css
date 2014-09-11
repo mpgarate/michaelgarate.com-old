@@ -35,6 +35,9 @@
   max-width:970px;
 }
 
+.posts img {
+  margin: 0 auto;
+}
 
 /* Link Sprites
 -------------------------------------------------- */
