@@ -8,10 +8,23 @@
 
 .header  {
   margin: 0;
-  height:96px;
+  height:116px;
   overflow: visible;
   box-shadow: 0 0 10px rgba(0,0,0,0.2);
   margin-bottom:10px;
+}
+
+.header h1 {
+  font-size: 40px;
+}
+
+.header h4 {
+  font-size: 16px;
+  color: #c9dff0;
+}
+
+.header .titles {
+  padding-top: 4px;
 }
 
 .main-container {
@@ -28,13 +41,13 @@
 
 .icons {
   width: 80px;
-  margin-top:65px;
+  margin-top:78px;
 }
 
 .icons a {
   float: left;
   display: block;
-  background: url(../images/icon_sprite.png) no-repeat;
+  background: url(../img/icon_sprite.png) no-repeat;
   height: 17px;
   width: 17px;
   margin-right: 2px;
