@@ -8,7 +8,7 @@
 
 .header  {
   margin: 0;
-  height:116px;
+  /* height:116px; */
   overflow: visible;
   box-shadow: 0 0 10px rgba(0,0,0,0.2);
   margin-bottom:10px;
@@ -18,8 +18,16 @@
   font-size: 40px;
 }
 
+.header h2 {
+  color :#fff;
+}
+
 .header h4 {
   font-size: 16px;
+  color: #c9dff0;
+}
+
+.header p {
   color: #c9dff0;
 }
 
@@ -43,8 +51,11 @@
 -------------------------------------------------- */
 
 .icons {
-  width: 80px;
-  margin-top:78px;
+  right:0;
+}
+
+.icon-spacing {
+  height: 78px;
 }
 
 .icons a {
@@ -53,7 +64,7 @@
   background: url(../img/icon_sprite.png) no-repeat;
   height: 17px;
   width: 17px;
-  margin-right: 2px;
+  margin-right: 3px;
 }
 
 a.pokemon {
@@ -99,6 +110,7 @@ html {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Droid Serif', serif;
 }
+
 
 h2 {
   color: #767676;
