@@ -149,3 +149,7 @@ body {
   padding-top: 20px;
   color: #aaa;
 }
+
+.footer p {
+  margin: 0;
+}
