@@ -47,8 +47,8 @@
   margin: 0 auto;
 }
 
-.posts img:hover {
-  
+.posts .row {
+  margin-bottom: 16px;
 }
 
 /* Link Sprites
