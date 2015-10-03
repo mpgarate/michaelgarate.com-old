@@ -1,0 +1,28 @@
+html, body {
+	font: 12px/15px;
+	padding: 3px;
+	color: #000;
+	margin: 0;
+	}
+	
+* {
+	float: none !important;
+	}
+nav#header {
+	float:none;
+	clear:both;
+	display:block;
+}
+
+#content img { 
+	max-width: 250px;
+	}
+	
+#branding {
+	width:auto;
+	height:180px;
+}
+
+#primary{
+	display:none;
+}
