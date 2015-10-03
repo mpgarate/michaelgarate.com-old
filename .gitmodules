@@ -1,0 +1,6 @@
+[submodule "bleep"]
+	path = bleep
+	url = git@github.com:mpgarate/bleep.js.git
+[submodule "breathe"]
+	path = breathe
+	url = git@gitlab.com:mpgarate/breathe-js.git
